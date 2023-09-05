@@ -1,0 +1,51 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.nav-container {
+    display: flex;
+    justify-content: flex-end;
+}
+.nav-bar {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-items{
+    margin-right: 2rem;
+}
+
+.logo {
+    
+    margin-right: auto;
+}
+
+
+
+
+
+.flex-container {
+    display: flex;
+    height: 200px;
+    justify-content: flex-end;
+    border: 4px solid black;
+       
+}
+
+
+
+.div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    
+
+}
+
