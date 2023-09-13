@@ -1,6 +1,7 @@
 
 
 body {
+    background-color: white;
     margin: 0;
     padding: 0;
     color: white;
@@ -133,6 +134,30 @@ body {
 /* ---- FLEX CONTAINER THREE ---- */
 
 .three {
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+   
+}
+
+.footer-container {
+    color: #1F2937;
+   
     
-    border: solid 2px black;
+}
+
+.footer-text {
+    margin-top: 2rem;
+    font-size: 36px;
+    font-weight: light;
+
+}
+
+.footer-author {
+    margin-left: 38rem;
+}
+
+/* ---- DIV FOUR ---- */
+.four {
+    height: 50px;
 }
