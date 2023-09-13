@@ -129,3 +129,10 @@ body {
     margin-right: 1rem;
     
 }
+
+/* ---- FLEX CONTAINER THREE ---- */
+
+.three {
+    
+    border: solid 2px black;
+}
